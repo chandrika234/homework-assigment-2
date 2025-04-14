@@ -563,6 +563,84 @@ text-align: center;
         .team{
             background-color: black;
         }
+        .last-description{
+            display: flex;
+            gap: 50px;
+            background-color:black;
+            
+            
+        }
+        .fitness .title{
+            color: rgb(230, 83, 60);
+font-family: Inter;
+font-size: 60px;
+font-weight: 800;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+font-style: italic;
+        }
+        .fitness .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: left;
+position: static;
+width: 443px;
+height: 72px;
+        }
+        .get .title{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .get .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 23px;
+font-weight: 400;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .platform .title{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .platform .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 23px;
+font-weight: 400;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .fitness{
+            margin-right: 50px;
+        }
+        .footer{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: center;
+background-color: black;
+        }
 
         
 
