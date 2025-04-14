@@ -367,6 +367,213 @@ height:100%;
 height:100%;
        
     }
+    table{
+        width:400px ;
+    }
+    th{
+        text-align: left;
+    }
+    table,th,td{
+        border: 1px solid  rgba(255, 255, 255, 0.5);
+        border-collapse: collapse;
+    }
+    th,td{
+        padding:10px ;
+    }
+    .bmi-test{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows:30px repeat(2,40px);
+        row-gap: 10px;
+        column-gap: 10px;
+    }
+    .bmi-test{
+        /* color: rgba(255, 255, 255, 0.6); */
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+    }
+    .test{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows:30px repeat(2,1fr);
+        row-gap: 10px;
+        column-gap: 10px;
+
+    }
+    .bmi-calculator{
+        display: flex;
+        gap:150px ;
+    }
+    .hight{
+        margin-top:30px ;
+    }
+    .table{
+        background-color:black;}
+        .gym .title{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        .gym .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: center;
+        }
+        td{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        th{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .bmi-table .title{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 28px;
+font-weight: 900;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+        }
+        .bmi{
+            border-radius: 8px;
+
+background: rgba(255, 255, 255, 0.1);
+color: rgba(255, 255, 255, 0.6);
+font-family: Inter;
+font-size: 1em;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+
+padding: 10px ;
+        }
+        .test{
+            border-radius: 8px;
+
+background: rgba(255, 255, 255, 0.1);
+color: rgba(255, 255, 255, 0.6);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+padding:10px ;
+
+        }
+        .frist .title{
+            color: rgb(255, 255, 255);
+            font-family: Inter;
+            font-size: 28px;
+            font-weight: 900;
+            line-height: 120%;
+            letter-spacing: 0%;
+            text-align: left;  
+
+        }
+        .frist .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: left;
+
+        }
+        .bmi-calculator{
+            background: rgb(34, 34, 34);
+            
+        }
+        .bmi-table{
+            margin-right:100px ;
+        }
+        .our-team{
+            
+            grid-template-columns: repeat(3, 1fr);
+            margin: 100px;
+            display: grid;
+            border-radius: 18px;
+
+background: rgba(255, 255, 255, 0.1);
+        }
+        .banner-card{
+            position: relative;
+            
+        }
+        .banner-card img{
+            width:90%;
+            height:90% ;
+            border-radius:20px ;
+            
+
+        }
+        .banner-text{
+            position: absolute;
+            top:0;
+            color: white;
+            
+            padding:10px ;
+
+        }
+        .team-description .title{
+            color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+
+        }
+        .team-description .subtitle{
+            color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: center;
+
+        }
+        .team{
+            background-color: black;
+        }
+
+        
+
+
+        
+
+        
+    
+
+
+    
 
  
 
